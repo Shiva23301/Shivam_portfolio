@@ -236,3 +236,4 @@ function copyContactText(elementId, btnElement) {
         console.error('Failed to copy: ', err);
     });
 }
+
